@@ -3,15 +3,15 @@
 
 ### Symmetric Keys
 
-* What is Symmetric keys?
-* What is differences between Symmetric keys and Asymmetric keys?
+* What are Symmetric keys?
+* What are differences between Symmetric keys and Asymmetric keys?
 * How to transfer Symmetric keys in a secure way?
 
 ### Asymmetric Keys
 
 * What is PKI?
 * How ssh keys work?
-* What is GPG keys?
+* What are GPG keys?
 * How to use GPG keys?
 
 
