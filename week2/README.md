@@ -28,13 +28,13 @@
 [tmux cheat sheet](https://tmuxcheatsheet.com/)
 
 ## bash
-bash scripting
-[an example of drawing graph for logs in bash](https://youtu.be/hCklI2FEOLU?si=9q9wOOTCAU6OF0UZ)
+* bash scripting
+* [an example of drawing graph for logs in bash](https://youtu.be/hCklI2FEOLU?si=9q9wOOTCAU6OF0UZ)
 
 ## vim tutorial
-[freeCodeCamp vim](https://youtu.be/RZ4p-saaQkc?si=1vC1KZy4znhZHlHy)
-vimtutor
-[vim cheat sheet](https://vim.rtorr.com/)
+* [freeCodeCamp vim](https://youtu.be/RZ4p-saaQkc?si=1vC1KZy4znhZHlHy)
+* vimtutor
+* [vim cheat sheet](https://vim.rtorr.com/)
 
 ## Cron
 [Cron tutorial Geeks for Geeks](https://www.geeksforgeeks.org/crontab-in-linux-with-examples/)
