@@ -38,3 +38,10 @@ vimtutor
 
 ## Cron
 [Cron tutorial Geeks for Geeks](https://www.geeksforgeeks.org/crontab-in-linux-with-examples/)
+
+## What is next task?
+
+* Create a ssh key pair
+* Put your key in ubuntu server machine and github account
+
+But your main focus should be on learning the above topics, especially networking.
