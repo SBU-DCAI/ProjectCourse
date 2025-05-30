@@ -57,4 +57,10 @@
 > [Red Hat docs](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/virtualization_deployment_and_administration_guide/chap-virtual_networking)
 
 
+![[Screenshot_20250530_212002.png]]
+
+8. Select IPv4 configuration
+9. Set subnet for network
+10. Uncheck **"Enable DHCPv4"** checkbox
+11. Finally tap on **"Finish"**
 
