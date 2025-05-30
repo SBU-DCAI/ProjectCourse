@@ -57,7 +57,7 @@
 > [Red Hat docs](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/virtualization_deployment_and_administration_guide/chap-virtual_networking)
 
 
-![](course/week1/assets/Screenshot_20250530_212002%201.png)
+![](week1/assets/Screenshot_20250530_212002%201.png)
 
 8. Select IPv4 configuration
 9. Set subnet for network
