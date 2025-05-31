@@ -25,14 +25,15 @@
 
 ### Add new virtual network
 
+![first](assets/first.png)
+
 1. Select connection (in this case QEMU/KVM)
 
-![first](assets/first.png)
+![screenshot1](assets/Screenshot_20250530_211806.png)  
 
 2. Then select Edit from tab bar  
 3. Select Connection Details
 
-![screenshot1](assets/Screenshot_20250530_211806.png)  
 ![screenshot2](assets/Screenshot_20250530_211839.png)
 
 4. Select Virtual Networks  
