@@ -14,7 +14,7 @@
 
 #### How to install on Debian based machines
 
-[tecmint](https://www.tecmint.com/install-qemu-kvm-ubuntu-create-virtual-machines/)
+[tecmint](https://www.tecmint.com/install-qemu-kvm-ubuntu-create-virtual-machines/)  
 [ubuntu](https://ubuntu.com/blog/kvm-hyphervisor)
 
 #### How to install on Red Hat based machines
@@ -25,42 +25,37 @@
 
 ### Add new virtual network
 
-
-![[assets/first.png]]
-
 1. Select connection (in this case QEMU/KVM)
 
+![first](assets/first.png)
 
-![[Screenshot_20250530_211806.png]]
-
-2. Then select Edit from tab bar
+2. Then select Edit from tab bar  
 3. Select Connection Details
 
+![screenshot1](assets/Screenshot_20250530_211806.png)  
+![screenshot2](assets/Screenshot_20250530_211839.png)
 
-![[Screenshot_20250530_211839.png]]
+4. Select Virtual Networks  
+5. Then tap on (+) sign on the lower-left side of the window
 
-4. Select Virtual Networks
-5.  The tap on (+) sign on left lower side of window
+> The default connection is "initial network", which is present by default and its DHCP is active.  
+> You can see its interface as `virbr0` on the host.
 
-> The default connection is initial network which is present by default and its dhcp is active. You can see its interface as virbr0 on host
-> ![[Pasted image 20250530214914.png]]
+![virbr0](assets/Pasted%20image%2020250530214914.png)  
+![virtual-networks](assets/Screenshot_20250530_211927.png)
 
-![[Screenshot_20250530_211927.png]]
+6. Select a valid name for the network (It must not be redundant or contain special characters)
 
-6. Select a valid name for network (It must not be redundant or contains special characters)
-
-![[Screenshot_20250530_211910.png]]
+![name](assets/Screenshot_20250530_211910.png)
 
 7. Select NAT for Mode
 
-> Read about Modes difference in Mode field (NAT, Routed, Open, Isolated and SR-IOV pool)
+> Read about Modes difference in Mode field (NAT, Routed, Open, Isolated and SR-IOV pool)  
 > [Red Hat docs](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/virtualization_deployment_and_administration_guide/chap-virtual_networking)
 
+![nat-mode](assets/Screenshot_20250530_212002%201.png)
 
-![](week1/assets/Screenshot_20250530_212002%201.png)
-
-8. Select IPv4 configuration
-9. Set subnet for network
-10. Uncheck **"Enable DHCPv4"** checkbox
+8. Select IPv4 configuration  
+9. Set subnet for network  
+10. Uncheck **"Enable DHCPv4"** checkbox  
 11. Finally tap on **"Finish"**
-
