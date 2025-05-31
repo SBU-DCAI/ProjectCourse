@@ -45,10 +45,10 @@
 
 > The default connection is "initial network", which is present by default and its DHCP is active.  
 > You can see its interface as `virbr0` on the host.
+> ![virbr0](assets/Pasted%20image%2020250530214914.png)  
 
 ---
 
-![virbr0](assets/Pasted%20image%2020250530214914.png)  
 ![virtual-networks](assets/Screenshot_20250530_211927.png)
 
 6. Select a valid name for the network (It must not be redundant or contain special characters)
