@@ -25,7 +25,7 @@
 
 ### Add new virtual network
 
-<img src="assets/first.png" alt="first" width="400"/>
+![first](assets/first.png)
 
 1. Select connection (in this case QEMU/KVM)
 
