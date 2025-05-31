@@ -28,9 +28,9 @@
 ![first](assets/first.png)
 
 1. Select connection (in this case QEMU/KVM)
-
-
-
+  
+  
+  
 ![screenshot1](assets/Screenshot_20250530_211806.png)  
 
 2. Then select Edit from tab bar  
