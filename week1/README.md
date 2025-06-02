@@ -88,5 +88,5 @@
 ![AddVirtualHardware](assets/Screenshot_20250602_194309.png)
 
 5. Select **Network** from left menu
-6. Select the new virtual network which created before from **Network source** drop down menu
+6. Select the new virtual network that was created earlier from **Network source** drop-down menu
 7.  Finally select **Finish**
