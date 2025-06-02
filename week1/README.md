@@ -90,3 +90,13 @@
 5. Select **Network** from left menu
 6. Select the new virtual network that was created earlier from **Network source** drop-down menu
 7.  Finally select **Finish**
+
+## Set static ip for ubuntu server
+
+- What is static ip and dynamic ip?
+- How we get dynamic ip from dhcp server?
+- Can we get static ip from dhcp server? [Redhat blog](https://www.redhat.com/en/blog/static-dynamic-ip-2)
+- In case of non existence of dhcp server, How we set static ip for ubuntu server machine **permanently**?
+- How we can set ip using ip command? ([ip command examples](https://www.cyberciti.biz/faq/linux-ip-command-examples-usage-syntax/), [ip command cheatsheet](https://access.redhat.com/sites/default/files/attachments/rh_ip_command_cheatsheet_1214_jcs_print.pdf))Is it a permanent solution?
+- How we can set static ip using **netplan** permanently [Ubuntu documentation](https://documentation.ubuntu.com/server/explanation/networking/configuring-networks/)?
+
