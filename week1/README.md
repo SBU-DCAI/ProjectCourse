@@ -70,3 +70,23 @@
 9. Set subnet for network  
 10. Uncheck **"Enable DHCPv4"** checkbox  
 11. Finally tap on **"Finish"**
+
+### Add virtual network to machine
+
+![home](week1/assets/Screenshot_20250602_194214.png)
+
+1. Select the machine you want to add virtual network to
+2. Select **Open** from above menu
+
+---
+![virtualHardwareDetails](week1/assets/Screenshot_20250602_194240.png)
+
+3. Select **Show virtual hardware details** from above menu
+4. Then Select **Add Hardware**
+
+---
+![AddVirtualHardware](week1/assets/Screenshot_20250602_194309.png)
+
+5. Select **Network** from left menu
+6. Select the new virtual network which created before from **Network source** drop down menu
+7.  Finally select **Finish**
