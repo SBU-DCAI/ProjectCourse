@@ -17,6 +17,8 @@
 - How to write a [playbook](https://docs.ansible.com/ansible/latest/playbook_guide/playbooks_intro.html#about-playbooks) for ansible?
 - How we can use cron and ansible together?
 
+[An introduction to ansible with networkchuck (**Highly Recommended**)](https://youtu.be/5hycyr-8EKs?si=OwVQ0FMDn_HOgtJr)
+
 ## What is next task?
 
 - Set up an ubuntu server virtual machine with static ip
